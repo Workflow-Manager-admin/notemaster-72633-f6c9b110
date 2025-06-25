@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A notes application for creating, editing, and managing notes.', 'containers': [{'container_name': 'notes_app_frontend', 'platform': 'web', 'framework': 'slidev', 'description': 'User interface for the notes app, allowing users to create, view, edit, and manage notes.', 'interfaces': 'Web UI', 'workspace': 'notes_app_frontend_workspace', 'container_root': 'notes_app_frontend_workspace/notes_app_frontend', 'dependencies': [], 'container_type': 'frontend', 'container_details': {'features': ['Create new note', 'Edit existing note', 'Delete note', 'View list of notes', 'View note details'], 'colors': {'primary': '#4F46E5', 'secondary': '#F59E42', 'accent': '#EF4444'}, 'theme': 'light', 'layout_description': 'Single-page layout with a sidebar for note navigation and a main area for displaying and editing notes.', 'style': 'modern minimalistic'}}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
